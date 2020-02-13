@@ -32,7 +32,7 @@ public class OpenGoogle {
 		}
 	}
 	
-	public void writeSomething() {
+	public void writeSomething() throws Exception {
 		throw new Exception("Ada yg salah");
 	}
 
