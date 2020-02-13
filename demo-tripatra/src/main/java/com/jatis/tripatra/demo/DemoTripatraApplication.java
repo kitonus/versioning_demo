@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoTripatraApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Starting...");
+		System.out.println("Starting... Demo V1");
 		SpringApplication.run(DemoTripatraApplication.class, args);
 	}
 

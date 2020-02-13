@@ -1,0 +1,10 @@
+Improvements
+------------
+1. DEMO-1: Ganti label
+2. DEMO-2: Ganti label lagi
+
+Bug fixes
+---------
+1. DEMO-3: Google map error
+
+
